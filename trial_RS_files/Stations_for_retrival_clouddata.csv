@@ -1,0 +1,11 @@
+obsid,stationid,stationname,latitude,longitude,altitude(m)
+10,SN17150,Rygge,59.3742,10.798,40
+16,SN18700,Oslo-Blindern,59.9423,10.72,94
+20,SN50500,Flesland,60.2892,5.2265,48
+23,SN50540,Bergen-Florida,60.383,5.3327,12
+44,SN68860,Trondheim-Voll,63.4107,10.4538,127
+54,SN90450,Tromsø-Vervarslinga,69.6537,18.9368,100
+54,SN90490,Tromsø-Langenes,69.6767,18.9133,8
+52,SN97251,Karasjok-Markannjarga,69.4635,25.5023,131
+56,SN99720,Hopen,76.5097,25.0133,6
+55,SN99950,Jan-Mayen,70.9394,-8.669,10
